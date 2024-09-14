@@ -61,7 +61,7 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
-## READ ME
+## README
 
 This is my first project using Laravel as a Rest API, don't judge plisss.
 
